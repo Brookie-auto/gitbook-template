@@ -1,28 +1,26 @@
 # Table of contents
 
-* [Welcome to TKT Automation](README.md)
+* [Welcome to TicketsPH](README.md)
 
 ## Overview
 
 * [Our Features](overview/our-features.md)
 * [Getting Started](overview/getting-started/README.md)
-  * [Dashboard](overview/getting-started/dashboard.md)
-  * [License & Download](overview/getting-started/license-and-download.md)
-  * [Device & Server Setting](overview/getting-started/device-and-server-setting.md)
+  * [Creating Your Account](overview/getting-started/creating-your-account.md)
+  * [Browsing Events](overview/getting-started/browsing-events.md)
+  * [Securing Tickets](overview/getting-started/securing-tickets.md)
 
-## Setting Up
+## Using TicketsPH
 
-* [Proxies](setting-up/proxies.md)
-* [Profiles](setting-up/profiles.md)
-* [Accounts](setting-up/accounts/README.md)
-  * [Sub Page](setting-up/accounts/sub-page.md)
-* [Settings](setting-up/settings/README.md)
-  * [Sub Page](setting-up/settings/sub-page.md)
-* [FAQ](setting-up/faq.md)
+* [Concerts & Events](using-ticketsph/concerts-and-events.md)
+* [Booking System](using-ticketsph/booking-system.md)
+* [Seat Selection](using-ticketsph/seat-selection.md)
+* [My Bookings Dashboard](using-ticketsph/my-bookings-dashboard.md)
+* [Supported Platforms](using-ticketsph/supported-platforms.md)
 
-## Module Guide
+## Support
 
-* [Queue-It](module-guide/queue-it/README.md)
-  * [Sub Page](module-guide/queue-it/sub-page.md)
-* [TicketMaster](module-guide/ticketmaster/README.md)
-  * [Sub Page](module-guide/ticketmaster/sub-page.md)
+* [FAQ](support/faq.md)
+* [Contact Us](support/contact-us.md)
+* [Terms of Service](support/terms-of-service.md)
+* [Privacy Policy](support/privacy-policy.md)
